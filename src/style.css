@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #111827;
+  background: radial-gradient(circle at top right, #e0e7ff 0%, #f8fafc 45%, #ffffff 100%);
+}
+
+#app {
+  min-height: 100vh;
+}
+
+.section-fade {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+
+.section-fade.show {
+  opacity: 1;
+  transform: translateY(0);
+}
