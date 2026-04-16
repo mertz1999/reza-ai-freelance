@@ -32,14 +32,14 @@ defineEmits(['open'])
     <RouterLink
       v-if="demo.route"
       :to="demo.route"
-      class="mt-auto pt-6 rounded-full border border-slate-300 px-4 py-2 text-sm font-medium text-slate-900 transition hover:border-slate-400 hover:bg-slate-50"
+      class="mt-auto inline-flex self-start rounded-full bg-slate-900 px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-slate-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-400"
     >
       View Demo
     </RouterLink>
     <button
       v-else
       type="button"
-      class="mt-auto pt-6 rounded-full border border-slate-300 px-4 py-2 text-sm font-medium text-slate-900 transition hover:border-slate-400 hover:bg-slate-50"
+      class="mt-auto inline-flex self-start rounded-full bg-slate-900 px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-slate-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-400"
       @click="$emit('open', demo)"
     >
       View Demo
