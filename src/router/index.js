@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import HomePage from '../pages/HomePage.vue'
 import AISalesObserverDemo from '../pages/AISalesObserverDemo.vue'
 import VoiceNotesCrmDemo from '../pages/VoiceNotesCrmDemo.vue'
@@ -7,7 +7,7 @@ import MeetingTranscriptionCoachDemo from '../pages/MeetingTranscriptionCoachDem
 import ProspectIntelligenceDemo from '../pages/ProspectIntelligenceDemo.vue'
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(import.meta.env.BASE_URL),
   scrollBehavior(to, from, savedPosition) {
     if (savedPosition) {
       return savedPosition

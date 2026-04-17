@@ -47,6 +47,8 @@ Frontend: `http://localhost:5173`
 ## Notes
 
 - This project does not store OpenAI keys on a backend.
+- GitHub Pages deployment is automated via `.github/workflows/deploy-pages.yml`.
+- For this repository, the build uses `VITE_BASE_PATH=/reza-ai-freelance/`.
 - For the Prospect Intelligence demo, cost estimate values are based on `.env` assumptions:
 
 ```env
@@ -54,3 +56,9 @@ VITE_OPENAI_WEB_SEARCH_PRICE_PER_CALL_USD=0.01
 VITE_OPENAI_INPUT_PRICE_PER_1M_USD=0
 VITE_OPENAI_OUTPUT_PRICE_PER_1M_USD=0
 ```
+
+## GitHub Pages
+
+1. Push to `main` to trigger deployment.
+2. In GitHub repo settings, set Pages source to `GitHub Actions` (once).
+3. Site URL will be: `https://mertz1999.github.io/reza-ai-freelance/`.
