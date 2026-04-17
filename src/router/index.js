@@ -1,10 +1,10 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomePage from '../pages/HomePage.vue'
 import AISalesObserverDemo from '../pages/AISalesObserverDemo.vue'
-import AIFollowUpAutomationDemo from '../pages/AIFollowUpAutomationDemo.vue'
 import VoiceNotesCrmDemo from '../pages/VoiceNotesCrmDemo.vue'
 import AICallMeetingIntelligenceDemo from '../pages/AICallMeetingIntelligenceDemo.vue'
 import MeetingTranscriptionCoachDemo from '../pages/MeetingTranscriptionCoachDemo.vue'
+import ProspectIntelligenceDemo from '../pages/ProspectIntelligenceDemo.vue'
 
 const router = createRouter({
   history: createWebHistory(),
@@ -27,11 +27,6 @@ const router = createRouter({
       component: AISalesObserverDemo,
     },
     {
-      path: '/demos/ai-follow-up-automation',
-      name: 'ai-follow-up-automation-demo',
-      component: AIFollowUpAutomationDemo,
-    },
-    {
       path: '/demos/voice-notes-crm-automation',
       name: 'voice-notes-crm-automation-demo',
       component: VoiceNotesCrmDemo,
@@ -45,6 +40,11 @@ const router = createRouter({
       path: '/demos/meeting-transcription-improvement-coach',
       name: 'meeting-transcription-improvement-coach-demo',
       component: MeetingTranscriptionCoachDemo,
+    },
+    {
+      path: '/demos/prospect-intelligence-agent',
+      name: 'prospect-intelligence-agent-demo',
+      component: ProspectIntelligenceDemo,
     },
   ],
 })

@@ -8,7 +8,6 @@ import {
   EyeIcon,
   GlobeAltIcon,
   MicrophoneIcon,
-  PaperAirplaneIcon,
   PhoneIcon,
   ServerStackIcon,
   Squares2X2Icon,
@@ -121,17 +120,6 @@ const demos = [
   },
   {
     id: 2,
-    title: 'AI Follow-Up Automation',
-    description:
-      'Keep deal momentum without manual reminders by automating follow-ups and next steps.',
-    points: ['Automatically sends follow-ups', 'Tracks responses', 'Schedules next steps'],
-    icon: PaperAirplaneIcon,
-    route: '/demos/ai-follow-up-automation',
-    exampleOutput:
-      'Follow-up Status\n\n- Email sent to Sarah (Enterprise Lead)\n- Response received: "Can we talk Friday?"\n- Next action auto-scheduled: Friday 10:30 AM reminder',
-  },
-  {
-    id: 3,
     title: 'Voice Notes → CRM Automation',
     description:
       'Turn short voice updates into structured CRM entries that your team can actually use.',
@@ -147,7 +135,7 @@ const demos = [
       'CRM Update Created\n\nClient: Nova Retail\nDeal Stage: Proposal Sent\nBudget: $45,000\nNext Step: Send revised pricing by Tuesday\nDecision Maker: COO',
   },
   {
-    id: 4,
+    id: 3,
     title: 'AI Call / Meeting Intelligence',
     description:
       'Get clear summaries from calls, including objections and practical next actions for reps.',
@@ -158,7 +146,7 @@ const demos = [
       'Meeting Summary\n\nMain Objection: Concern about onboarding timeline\nBuying Signal: Team asked for implementation examples\nSuggested Next Action: Share onboarding plan and book technical review.',
   },
   {
-    id: 5,
+    id: 4,
     title: 'Meeting Transcription → Improvement Coach',
     description:
       'Improve sales conversations with feedback on weak responses and better phrasing options.',
@@ -171,6 +159,22 @@ const demos = [
     route: '/demos/meeting-transcription-improvement-coach',
     exampleOutput:
       'Conversation Coaching\n\nWeak response detected: "We are better than others."\nSuggested phrasing: "Teams choose us because setup is fast and managers get full visibility in one dashboard."\nStrategy tip: Tie value directly to revenue impact.',
+  },
+  {
+    id: 5,
+    title: 'Prospect Intelligence Agent',
+    description:
+      'Research a prospect from public web sources and generate a sourced brief with personalized outreach.',
+    points: [
+      'Searches public web sources',
+      'Finds recent themes and buying signals',
+      'Generates email, DM, and call opener',
+      'Shows live estimated cost per report',
+    ],
+    icon: GlobeAltIcon,
+    route: '/demos/prospect-intelligence-agent',
+    exampleOutput:
+      'Prospect Brief\n\nRole focus: Revenue efficiency and pipeline quality\nTop signal: Hiring sales enablement roles\nBest angle: Low-friction pilot for faster follow-up execution.',
   },
 ]
 

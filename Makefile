@@ -1,4 +1,4 @@
-.PHONY: install run client server
+.PHONY: install run client
 
 install:
 	npm install
@@ -8,6 +8,3 @@ run:
 
 client:
 	npm run dev:client
-
-server:
-	npm run dev:server

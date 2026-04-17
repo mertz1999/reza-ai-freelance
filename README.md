@@ -1,22 +1,20 @@
 # Reza AI Freelance Portfolio
 
-Interactive Vue 3 portfolio with five demo pages for AI sales workflows.
+Interactive Vue 3 portfolio with five AI sales demos.
 
-## What is included
+## Architecture
 
-- Landing page + five dedicated demo routes
-- Secure backend proxy for OpenAI calls (`server/`)
-- Real AI + mock fallback mode for reliability
-- Visitor-driven interactions (type, analyze, generate, record voice)
+- Frontend-only app (no backend service).
+- AI calls run directly from browser to OpenAI via `src/services/aiService.js`.
+- Users enter their own OpenAI API key in the in-app popup.
+- API key is saved only in `sessionStorage` and cleared on reload/close.
 
 ## Project structure
 
 - `src/pages/` demo pages + landing page
-- `src/services/aiService.js` frontend API client
-- `src/composables/useAiAction.js` loading/error/mode state wrapper
-- `server/index.js` backend entrypoint
-- `server/routes/ai.js` AI endpoints
-- `server/lib/` prompts, mocks, OpenAI helpers
+- `src/services/aiService.js` AI integrations
+- `src/components/ApiKeyModal.vue` API key popup
+- `src/composables/useAiAction.js` loading/error/mode helper
 
 ## Setup
 
@@ -26,22 +24,13 @@ Interactive Vue 3 portfolio with five demo pages for AI sales workflows.
 npm install
 ```
 
-2. Copy env files:
+2. Optional: copy env template and tune models/cost assumptions:
 
 ```bash
 cp .env.example .env
-cp server/.env.example server/.env
-```
-
-3. Add your OpenAI key in `server/.env`:
-
-```env
-OPENAI_API_KEY=your_real_key
 ```
 
 ## Run
-
-Start frontend + backend together:
 
 ```bash
 npm run dev
@@ -53,43 +42,15 @@ Or with Make:
 make run
 ```
 
-- Frontend: `http://localhost:5173`
-- Backend API: `http://localhost:8787`
+Frontend: `http://localhost:5173`
 
-## Real vs Mock mode
+## Notes
 
-- Default behavior:
-  - If `OPENAI_API_KEY` exists, endpoints try real AI first
-  - If real call fails, app falls back to mock data
-- Force mock mode:
+- This project does not store OpenAI keys on a backend.
+- For the Prospect Intelligence demo, cost estimate values are based on `.env` assumptions:
 
 ```env
-FORCE_MOCK_AI=true
-```
-
-This is useful for demos without API usage/cost.
-
-## API endpoints
-
-- `GET /api/health`
-- `GET /api/ai/health`
-- `POST /api/ai/sales-observer`
-- `POST /api/ai/sales-observer-email-analysis`
-- `POST /api/ai/follow-up-automation`
-- `POST /api/ai/voice-to-crm`
-- `POST /api/ai/transcribe` (multipart, `audio`)
-- `POST /api/ai/meeting-intelligence`
-- `POST /api/ai/coaching`
-
-All AI endpoints return:
-
-```json
-{
-  "mode": "real | mock",
-  "data": {},
-  "meta": {
-    "source": "endpoint:openai|mock|fallback",
-    "generatedAt": "ISO timestamp"
-  }
-}
+VITE_OPENAI_WEB_SEARCH_PRICE_PER_CALL_USD=0.01
+VITE_OPENAI_INPUT_PRICE_PER_1M_USD=0
+VITE_OPENAI_OUTPUT_PRICE_PER_1M_USD=0
 ```
