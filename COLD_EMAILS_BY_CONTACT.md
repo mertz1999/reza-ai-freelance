@@ -1,23 +1,26 @@
-# Cold Email Texts By Contact
+# Cold Email Texts By Contact (Unique Versions)
 
 Portfolio link used in every email:
 - https://mertz1999.github.io/reza-ai-freelance/#/
 
+All drafts below mention sample work types I can deliver and how they generally help sales teams with AI workflows and automation.
 
 ## 1. InTouch MENA - info@intouchmena.com
 - Industry: Agency / Digital Services
 - Website: https://www.intouchmena.com
-- Subject: Quick AI workflow idea for InTouch MENA
+- Subject: Practical AI workflow idea for InTouch MENA
 - Body:
 ```text
 Hi InTouch MENA team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I reviewed your company profile and wanted to share a practical idea.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If useful, I can show a 15-minute walkthrough next week.
 
 Best,
 Reza Tanakizadeh
@@ -26,17 +29,19 @@ Reza Tanakizadeh
 ## 2. Genua Media - info@genaumedia.com
 - Industry: Agency / Digital Services
 - Website: https://www.genaumedia.com
-- Subject: Quick AI workflow idea for Genua Media
+- Subject: Quick sales automation concept for Genua Media
 - Body:
 ```text
 Hi Genua Media team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I came across your business and thought this would be relevant to your sales flow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If this is relevant, I can share a short demo call this week.
 
 Best,
 Reza Tanakizadeh
@@ -45,17 +50,19 @@ Reza Tanakizadeh
 ## 3. Hoops - hello@hoops.com.tr
 - Industry: Agency / Digital Services
 - Website: https://hoops.com.tr/
-- Subject: Quick AI workflow idea for Hoops
+- Subject: Small AI pilot proposal for Hoops sales team
 - Body:
 ```text
 Hi Hoops team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I wanted to send a short workflow idea tailored to teams like yours.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can prepare a quick 15-minute walkthrough with examples relevant to your team.
 
 Best,
 Reza Tanakizadeh
@@ -64,17 +71,19 @@ Reza Tanakizadeh
 ## 4. Adroket - hello@adroket.com
 - Industry: Agency / Digital Services
 - Website: https://adroket.com/
-- Subject: Quick AI workflow idea for Adroket
+- Subject: AI workflow samples for Adroket
 - Body:
 ```text
 Hi Adroket team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I am reaching out with a focused automation idea for your commercial team.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Open to a short call to review where this can fit in your process?
 
 Best,
 Reza Tanakizadeh
@@ -83,17 +92,19 @@ Reza Tanakizadeh
 ## 5. 212 Medya - destek@212medya.com
 - Industry: Agency / Digital Services
 - Website: https://212medya.com.tr/
-- Subject: Quick AI workflow idea for 212 Medya
+- Subject: Improving follow-up speed at 212 Medya
 - Body:
 ```text
 Hi 212 Medya team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I took a look at your work and prepared a quick AI workflow suggestion.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would a brief 15-minute discussion be helpful this week?
 
 Best,
 Reza Tanakizadeh
@@ -102,17 +113,19 @@ Reza Tanakizadeh
 ## 6. Survivor - nfo@survivor.com.tr
 - Industry: Agency / Digital Services
 - Website: https://www.survivor.com.tr/
-- Subject: Quick AI workflow idea for Survivor
+- Subject: Sales ops automation idea for Survivor
 - Body:
 ```text
 Hi Survivor team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I thought this may be useful for your sales process and follow-up operations.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If you want, I can walk through a pilot scope in 15 minutes.
 
 Best,
 Reza Tanakizadeh
@@ -121,17 +134,19 @@ Reza Tanakizadeh
 ## 7. Hype - hello@hype.com.tr
 - Industry: Agency / Digital Services
 - Website: https://hype.com.tr/en/
-- Subject: Quick AI workflow idea for Hype
+- Subject: A short AI workflow proposal for Hype
 - Body:
 ```text
 Hi Hype team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I am sharing a short note because your team seems like a strong fit for this workflow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Happy to share a practical implementation plan in a short call.
 
 Best,
 Reza Tanakizadeh
@@ -140,17 +155,19 @@ Reza Tanakizadeh
 ## 8. Marjinal - info@marjinal.com.tr
 - Industry: Agency / Digital Services
 - Website: https://www.marjinal.com.tr/
-- Subject: Quick AI workflow idea for Marjinal
+- Subject: Could this help Marjinal sales operations?
 - Body:
 ```text
 Hi Marjinal team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I wanted to propose a lightweight automation setup your team can implement quickly.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would you be open to a fast intro call to evaluate fit?
 
 Best,
 Reza Tanakizadeh
@@ -159,17 +176,19 @@ Reza Tanakizadeh
 ## 9. Garraje - info@garraje.com
 - Industry: Agency / Digital Services
 - Website: https://garraje.com/
-- Subject: Quick AI workflow idea for Garraje
+- Subject: Workflow automation examples for Garraje
 - Body:
 ```text
 Hi Garraje team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I noticed your team could benefit from a simple AI-enabled sales workflow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can show concrete workflow examples in a short session.
 
 Best,
 Reza Tanakizadeh
@@ -178,17 +197,19 @@ Reza Tanakizadeh
 ## 10. Garraje - sales@garraje.com
 - Industry: Agency / Digital Services
 - Website: https://garraje.com/
-- Subject: Quick AI workflow idea for Garraje
+- Subject: A 15-minute AI workflow walkthrough for Garraje
 - Body:
 ```text
 Hi Garraje team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I am sending one practical idea that can be tested as a short pilot.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If timing works, we can review a low-risk pilot on a quick call.
 
 Best,
 Reza Tanakizadeh
@@ -197,17 +218,19 @@ Reza Tanakizadeh
 ## 11. Joykek - hello@joykek.com
 - Industry: Agency / Digital Services
 - Website: https://joykek.com/
-- Subject: Quick AI workflow idea for Joykek
+- Subject: Reducing manual sales tasks at Joykek
 - Body:
 ```text
 Hi Joykek team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I prepared a concise workflow concept that may fit your current sales operations.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would it make sense to explore this in a 15-minute meeting?
 
 Best,
 Reza Tanakizadeh
@@ -216,17 +239,19 @@ Reza Tanakizadeh
 ## 12. BBCO Studio - hello@bbcostudio.com
 - Industry: Agency / Digital Services
 - Website: https://www.bbcostudio.com/en
-- Subject: Quick AI workflow idea for BBCO Studio
+- Subject: Pilot-ready AI workflow examples for BBCO Studio
 - Body:
 ```text
 Hi BBCO Studio team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I would like to share a practical AI setup that is fast to deploy and measurable.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can share a concise roadmap for deployment in a short call.
 
 Best,
 Reza Tanakizadeh
@@ -235,17 +260,19 @@ Reza Tanakizadeh
 ## 13. Export Partners - info@exportpartners.com.tr
 - Industry: Agency / Digital Services
 - Website: https://www.exportpartners.com.tr/en/
-- Subject: Quick AI workflow idea for Export Partners
+- Subject: Practical AI workflow idea for Export Partners
 - Body:
 ```text
 Hi Export Partners team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I reviewed your company profile and wanted to share a practical idea.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If useful, I can show a 15-minute walkthrough next week.
 
 Best,
 Reza Tanakizadeh
@@ -254,17 +281,19 @@ Reza Tanakizadeh
 ## 14. Wordsmith - wordsmith@wordsmith.com.tr
 - Industry: Agency / Digital Services
 - Website: https://www.wordsmith.com.tr/
-- Subject: Quick AI workflow idea for Wordsmith
+- Subject: Quick sales automation concept for Wordsmith
 - Body:
 ```text
 Hi Wordsmith team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I came across your business and thought this would be relevant to your sales flow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If this is relevant, I can share a short demo call this week.
 
 Best,
 Reza Tanakizadeh
@@ -273,17 +302,19 @@ Reza Tanakizadeh
 ## 15. Maama - hello@maama.me
 - Industry: Agency / Digital Services
 - Website: https://www.maama.me/
-- Subject: Quick AI workflow idea for Maama
+- Subject: Small AI pilot proposal for Maama sales team
 - Body:
 ```text
 Hi Maama team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I wanted to send a short workflow idea tailored to teams like yours.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can prepare a quick 15-minute walkthrough with examples relevant to your team.
 
 Best,
 Reza Tanakizadeh
@@ -292,17 +323,19 @@ Reza Tanakizadeh
 ## 16. ADR / Tamadami Contact - info@tamadami.com
 - Industry: Agency / Digital Services
 - Website: https://www.adr.com.tr/
-- Subject: Quick AI workflow idea for ADR / Tamadami Contact
+- Subject: AI workflow samples for ADR / Tamadami Contact
 - Body:
 ```text
 Hi ADR / Tamadami Contact team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I am reaching out with a focused automation idea for your commercial team.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Open to a short call to review where this can fit in your process?
 
 Best,
 Reza Tanakizadeh
@@ -311,17 +344,19 @@ Reza Tanakizadeh
 ## 17. Lovefengis - hello@lovefengis.com
 - Industry: Agency / Digital Services
 - Website: https://lovefengis.com/
-- Subject: Quick AI workflow idea for Lovefengis
+- Subject: Improving follow-up speed at Lovefengis
 - Body:
 ```text
 Hi Lovefengis team,
 
-I build practical AI sales workflows for agencies to reduce missed follow-ups, keep CRM data clean, and turn call notes into next actions across client accounts.
+I took a look at your work and prepared a quick AI workflow suggestion.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: AI lead-risk observer, voice-notes-to-CRM automation, and call-summary workflows that create next actions for your sales team.
+This usually helps teams reduce manual follow-up work and improve response speed across accounts.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would a brief 15-minute discussion be helpful this week?
 
 Best,
 Reza Tanakizadeh
@@ -330,17 +365,19 @@ Reza Tanakizadeh
 ## 18. VET7 - sales@vet7.vet
 - Industry: Poultry Equipment Manufacturing
 - Website: https://vet7.vet/
-- Subject: Quick AI workflow idea for VET7
+- Subject: Sales ops automation idea for VET7
 - Body:
 ```text
 Hi VET7 team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I thought this may be useful for your sales process and follow-up operations.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If you want, I can walk through a pilot scope in 15 minutes.
 
 Best,
 Reza Tanakizadeh
@@ -349,17 +386,19 @@ Reza Tanakizadeh
 ## 19. The Fabric Manufacturer - info@thefabricmanufacturer.com
 - Industry: Textile Manufacturing
 - Website: https://www.thefabricmanufacturer.com/
-- Subject: Quick AI workflow idea for The Fabric Manufacturer
+- Subject: A short AI workflow proposal for The Fabric Manufacturer
 - Body:
 ```text
 Hi The Fabric Manufacturer team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I am sharing a short note because your team seems like a strong fit for this workflow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Happy to share a practical implementation plan in a short call.
 
 Best,
 Reza Tanakizadeh
@@ -368,17 +407,19 @@ Reza Tanakizadeh
 ## 20. BOSON - boson@boson.com.tr
 - Industry: Industrial / Technical Manufacturing
 - Website: https://boson.com.tr/
-- Subject: Quick AI workflow idea for BOSON
+- Subject: Could this help BOSON sales operations?
 - Body:
 ```text
 Hi BOSON team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I wanted to propose a lightweight automation setup your team can implement quickly.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would you be open to a fast intro call to evaluate fit?
 
 Best,
 Reza Tanakizadeh
@@ -387,17 +428,19 @@ Reza Tanakizadeh
 ## 21. ERPOMED - export@erpomed.com
 - Industry: Medical Equipment Manufacturing
 - Website: https://erpomed.com/
-- Subject: Quick AI workflow idea for ERPOMED
+- Subject: Workflow automation examples for ERPOMED
 - Body:
 ```text
 Hi ERPOMED team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I noticed your team could benefit from a simple AI-enabled sales workflow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can show concrete workflow examples in a short session.
 
 Best,
 Reza Tanakizadeh
@@ -406,17 +449,19 @@ Reza Tanakizadeh
 ## 22. SAVORY Olive Oil - info@savoryoliveoil.com
 - Industry: Food & Beverage Manufacturing
 - Website: https://www.savoryoliveoil.com/
-- Subject: Quick AI workflow idea for SAVORY Olive Oil
+- Subject: A 15-minute AI workflow walkthrough for SAVORY Olive Oil
 - Body:
 ```text
 Hi SAVORY Olive Oil team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I am sending one practical idea that can be tested as a short pilot.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If timing works, we can review a low-risk pilot on a quick call.
 
 Best,
 Reza Tanakizadeh
@@ -425,17 +470,19 @@ Reza Tanakizadeh
 ## 23. MIM-MAK MAKINA - info@mim-mak.com
 - Industry: Industrial Tank and Steel Manufacturing
 - Website: https://www.mim-mak.com/
-- Subject: Quick AI workflow idea for MIM-MAK MAKINA
+- Subject: Reducing manual sales tasks at MIM-MAK MAKINA
 - Body:
 ```text
 Hi MIM-MAK MAKINA team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I prepared a concise workflow concept that may fit your current sales operations.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would it make sense to explore this in a 15-minute meeting?
 
 Best,
 Reza Tanakizadeh
@@ -444,17 +491,19 @@ Reza Tanakizadeh
 ## 24. ACCAS Cup - accas@accascup.com
 - Industry: Packaging / Foodservice Products
 - Website: https://accascup.com/
-- Subject: Quick AI workflow idea for ACCAS Cup
+- Subject: Pilot-ready AI workflow examples for ACCAS Cup
 - Body:
 ```text
 Hi ACCAS Cup team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I would like to share a practical AI setup that is fast to deploy and measurable.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can share a concise roadmap for deployment in a short call.
 
 Best,
 Reza Tanakizadeh
@@ -463,17 +512,19 @@ Reza Tanakizadeh
 ## 25. LVSSN - marketing@lvssn.com
 - Industry: Industrial Solutions / Sustainability
 - Website: https://www.lvssn.com/
-- Subject: Quick AI workflow idea for LVSSN
+- Subject: Practical AI workflow idea for LVSSN
 - Body:
 ```text
 Hi LVSSN team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I reviewed your company profile and wanted to share a practical idea.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If useful, I can show a 15-minute walkthrough next week.
 
 Best,
 Reza Tanakizadeh
@@ -482,17 +533,19 @@ Reza Tanakizadeh
 ## 26. KOSKA - koska.tr@koska.com
 - Industry: Food Manufacturing
 - Website: https://www.koska.com/tr
-- Subject: Quick AI workflow idea for KOSKA
+- Subject: Quick sales automation concept for KOSKA
 - Body:
 ```text
 Hi KOSKA team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I came across your business and thought this would be relevant to your sales flow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If this is relevant, I can share a short demo call this week.
 
 Best,
 Reza Tanakizadeh
@@ -501,17 +554,19 @@ Reza Tanakizadeh
 ## 27. MEM Solar - sales@memsolar.com
 - Industry: Solar Module Manufacturing
 - Website: https://memsolar.com/en/
-- Subject: Quick AI workflow idea for MEM Solar
+- Subject: Small AI pilot proposal for MEM Solar sales team
 - Body:
 ```text
 Hi MEM Solar team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I wanted to send a short workflow idea tailored to teams like yours.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can prepare a quick 15-minute walkthrough with examples relevant to your team.
 
 Best,
 Reza Tanakizadeh
@@ -520,17 +575,19 @@ Reza Tanakizadeh
 ## 28. Agilex Fragrances - info@agilexfragrances.com
 - Industry: Fragrance Manufacturing
 - Website: https://www.agilexfragrances.com/
-- Subject: Quick AI workflow idea for Agilex Fragrances
+- Subject: AI workflow samples for Agilex Fragrances
 - Body:
 ```text
 Hi Agilex Fragrances team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I am reaching out with a focused automation idea for your commercial team.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Open to a short call to review where this can fit in your process?
 
 Best,
 Reza Tanakizadeh
@@ -539,17 +596,19 @@ Reza Tanakizadeh
 ## 29. Ikizler Lighting - info@ikizlerlighting.com
 - Industry: Lighting Products
 - Website: https://www.ikizleraydinlatma.com/en
-- Subject: Quick AI workflow idea for Ikizler Lighting
+- Subject: Improving follow-up speed at Ikizler Lighting
 - Body:
 ```text
 Hi Ikizler Lighting team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I took a look at your work and prepared a quick AI workflow suggestion.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would a brief 15-minute discussion be helpful this week?
 
 Best,
 Reza Tanakizadeh
@@ -557,17 +616,19 @@ Reza Tanakizadeh
 
 ## 30. IHI DALGAKIRAN - info@ihidalgakiran.com
 - Industry: Compressor Manufacturing
-- Subject: Quick AI workflow idea for IHI DALGAKIRAN
+- Subject: Sales ops automation idea for IHI DALGAKIRAN
 - Body:
 ```text
 Hi IHI DALGAKIRAN team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I thought this may be useful for your sales process and follow-up operations.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If you want, I can walk through a pilot scope in 15 minutes.
 
 Best,
 Reza Tanakizadeh
@@ -575,17 +636,19 @@ Reza Tanakizadeh
 
 ## 31. BERFA - info@berfa.com.tr
 - Industry: Furniture Manufacturing
-- Subject: Quick AI workflow idea for BERFA
+- Subject: A short AI workflow proposal for BERFA
 - Body:
 ```text
 Hi BERFA team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I am sharing a short note because your team seems like a strong fit for this workflow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Happy to share a practical implementation plan in a short call.
 
 Best,
 Reza Tanakizadeh
@@ -593,17 +656,19 @@ Reza Tanakizadeh
 
 ## 32. OMS Vibro - oms@omsvibro.com
 - Industry: Foundation Engineering Equipment
-- Subject: Quick AI workflow idea for OMS Vibro
+- Subject: Could this help OMS Vibro sales operations?
 - Body:
 ```text
 Hi OMS Vibro team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I wanted to propose a lightweight automation setup your team can implement quickly.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would you be open to a fast intro call to evaluate fit?
 
 Best,
 Reza Tanakizadeh
@@ -611,17 +676,19 @@ Reza Tanakizadeh
 
 ## 33. CORE - info@core.com.tr
 - Industry: Smart Home Products
-- Subject: Quick AI workflow idea for CORE
+- Subject: Workflow automation examples for CORE
 - Body:
 ```text
 Hi CORE team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I noticed your team could benefit from a simple AI-enabled sales workflow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can show concrete workflow examples in a short session.
 
 Best,
 Reza Tanakizadeh
@@ -629,17 +696,19 @@ Reza Tanakizadeh
 
 ## 34. DuniTech - info@duni-tech.com
 - Industry: Medical Technology
-- Subject: Quick AI workflow idea for DuniTech
+- Subject: A 15-minute AI workflow walkthrough for DuniTech
 - Body:
 ```text
 Hi DuniTech team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I am sending one practical idea that can be tested as a short pilot.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If timing works, we can review a low-risk pilot on a quick call.
 
 Best,
 Reza Tanakizadeh
@@ -648,17 +717,19 @@ Reza Tanakizadeh
 ## 35. GERPAAS - info@gerpaas.com
 - Industry: Industrial / EPC Supply
 - Website: https://gerpaas.com/
-- Subject: Quick AI workflow idea for GERPAAS
+- Subject: Reducing manual sales tasks at GERPAAS
 - Body:
 ```text
 Hi GERPAAS team,
 
-I build practical AI sales workflows for product companies to improve quote and distributor follow-up speed, turn notes into structured CRM updates, and reduce manual sales admin.
+I prepared a concise workflow concept that may fit your current sales operations.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: quote follow-up automation, CRM update workflows from voice notes, and AI pipeline summaries that help sales teams prioritize faster.
+This generally helps sales teams shorten response cycles and maintain cleaner deal tracking.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would it make sense to explore this in a 15-minute meeting?
 
 Best,
 Reza Tanakizadeh
@@ -667,17 +738,19 @@ Reza Tanakizadeh
 ## 36. GPC Unity - info@gpcunity.com
 - Industry: Pharma / Medical
 - Website: http://www.gpcunity.com
-- Subject: Quick AI workflow idea for GPC Unity
+- Subject: Pilot-ready AI workflow examples for GPC Unity
 - Body:
 ```text
 Hi GPC Unity team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I would like to share a practical AI setup that is fast to deploy and measurable.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can share a concise roadmap for deployment in a short call.
 
 Best,
 Reza Tanakizadeh
@@ -686,17 +759,19 @@ Reza Tanakizadeh
 ## 37. SB Pharma - serkanonuk@sbpharma.com.tr
 - Industry: Pharma / Medical
 - Website: http://www.sbpharma.com.tr
-- Subject: Quick AI workflow idea for SB Pharma
+- Subject: Practical AI workflow idea for SB Pharma
 - Body:
 ```text
 Hi SB Pharma team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I reviewed your company profile and wanted to share a practical idea.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If useful, I can show a 15-minute walkthrough next week.
 
 Best,
 Reza Tanakizadeh
@@ -705,17 +780,19 @@ Reza Tanakizadeh
 ## 38. Atilim Saglik - osman.halici@atilimsaglik.net
 - Industry: Healthcare / Medical Supplies
 - Website: https://www.atilimsaglik.net
-- Subject: Quick AI workflow idea for Atilim Saglik
+- Subject: Quick sales automation concept for Atilim Saglik
 - Body:
 ```text
 Hi Atilim Saglik team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I came across your business and thought this would be relevant to your sales flow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If this is relevant, I can share a short demo call this week.
 
 Best,
 Reza Tanakizadeh
@@ -724,17 +801,19 @@ Reza Tanakizadeh
 ## 39. Optima Technic - info@optimatechnic.com
 - Industry: Medical / Technical Products
 - Website: http://www.optimatechnic.com
-- Subject: Quick AI workflow idea for Optima Technic
+- Subject: Small AI pilot proposal for Optima Technic sales team
 - Body:
 ```text
 Hi Optima Technic team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I wanted to send a short workflow idea tailored to teams like yours.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can prepare a quick 15-minute walkthrough with examples relevant to your team.
 
 Best,
 Reza Tanakizadeh
@@ -743,17 +822,19 @@ Reza Tanakizadeh
 ## 40. Doratek Medikal (MATMED contact) - muhammed.aga@matmed.com.tr
 - Industry: Medical Equipment
 - Website: http://www.doratekmedikal.com
-- Subject: Quick AI workflow idea for Doratek Medikal (MATMED contact)
+- Subject: AI workflow samples for Doratek Medikal (MATMED contact)
 - Body:
 ```text
 Hi Doratek Medikal (MATMED contact) team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I am reaching out with a focused automation idea for your commercial team.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Open to a short call to review where this can fit in your process?
 
 Best,
 Reza Tanakizadeh
@@ -762,17 +843,19 @@ Reza Tanakizadeh
 ## 41. Luxor Saglik - info@luxorsaglik.com.tr
 - Industry: Healthcare / Medical Supplies
 - Website: http://www.luxorsaglik.com.tr
-- Subject: Quick AI workflow idea for Luxor Saglik
+- Subject: Improving follow-up speed at Luxor Saglik
 - Body:
 ```text
 Hi Luxor Saglik team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I took a look at your work and prepared a quick AI workflow suggestion.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would a brief 15-minute discussion be helpful this week?
 
 Best,
 Reza Tanakizadeh
@@ -780,17 +863,19 @@ Reza Tanakizadeh
 
 ## 42. Tipsan - okantutuncu@tipsan.com.tr
 - Industry: Pharma / Medical
-- Subject: Quick AI workflow idea for Tipsan
+- Subject: Sales ops automation idea for Tipsan
 - Body:
 ```text
 Hi Tipsan team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I thought this may be useful for your sales process and follow-up operations.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If you want, I can walk through a pilot scope in 15 minutes.
 
 Best,
 Reza Tanakizadeh
@@ -798,17 +883,19 @@ Reza Tanakizadeh
 
 ## 43. Kampotu - volkan.savci@kampotu.com
 - Industry: Pharma / Medical
-- Subject: Quick AI workflow idea for Kampotu
+- Subject: A short AI workflow proposal for Kampotu
 - Body:
 ```text
 Hi Kampotu team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I am sharing a short note because your team seems like a strong fit for this workflow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Happy to share a practical implementation plan in a short call.
 
 Best,
 Reza Tanakizadeh
@@ -816,17 +903,19 @@ Reza Tanakizadeh
 
 ## 44. Kurtsan - oduleymen@kurtsan.com
 - Industry: Pharma / Medical
-- Subject: Quick AI workflow idea for Kurtsan
+- Subject: Could this help Kurtsan sales operations?
 - Body:
 ```text
 Hi Kurtsan team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I wanted to propose a lightweight automation setup your team can implement quickly.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would you be open to a fast intro call to evaluate fit?
 
 Best,
 Reza Tanakizadeh
@@ -835,17 +924,19 @@ Reza Tanakizadeh
 ## 45. Aurafix - info@aurafix.com
 - Industry: Medical Products
 - Website: http://www.aurafix.com
-- Subject: Quick AI workflow idea for Aurafix
+- Subject: Workflow automation examples for Aurafix
 - Body:
 ```text
 Hi Aurafix team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I noticed your team could benefit from a simple AI-enabled sales workflow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can show concrete workflow examples in a short session.
 
 Best,
 Reza Tanakizadeh
@@ -854,17 +945,19 @@ Reza Tanakizadeh
 ## 46. Naturbes - info@naturbes.com
 - Industry: Supplements / Nutraceuticals
 - Website: http://www.naturbes.net
-- Subject: Quick AI workflow idea for Naturbes
+- Subject: A 15-minute AI workflow walkthrough for Naturbes
 - Body:
 ```text
 Hi Naturbes team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I am sending one practical idea that can be tested as a short pilot.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If timing works, we can review a low-risk pilot on a quick call.
 
 Best,
 Reza Tanakizadeh
@@ -873,17 +966,19 @@ Reza Tanakizadeh
 ## 47. Pharmada - bd@pharmada.com.tr
 - Industry: Pharmaceutical
 - Website: http://www.pharmada.com.tr/en
-- Subject: Quick AI workflow idea for Pharmada
+- Subject: Reducing manual sales tasks at Pharmada
 - Body:
 ```text
 Hi Pharmada team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I prepared a concise workflow concept that may fit your current sales operations.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would it make sense to explore this in a 15-minute meeting?
 
 Best,
 Reza Tanakizadeh
@@ -892,17 +987,19 @@ Reza Tanakizadeh
 ## 48. Prof Saracoglu - senays@profsaracoglu.com
 - Industry: Herbal / Consumer Health
 - Website: http://www.profsaracoglu.com
-- Subject: Quick AI workflow idea for Prof Saracoglu
+- Subject: Pilot-ready AI workflow examples for Prof Saracoglu
 - Body:
 ```text
 Hi Prof Saracoglu team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I would like to share a practical AI setup that is fast to deploy and measurable.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can share a concise roadmap for deployment in a short call.
 
 Best,
 Reza Tanakizadeh
@@ -911,17 +1008,19 @@ Reza Tanakizadeh
 ## 49. Zade Vital - aaysakar@zade.com.tr
 - Industry: Nutraceuticals / Consumer Health
 - Website: https://zadevital.com.tr/
-- Subject: Quick AI workflow idea for Zade Vital
+- Subject: Practical AI workflow idea for Zade Vital
 - Body:
 ```text
 Hi Zade Vital team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I reviewed your company profile and wanted to share a practical idea.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If useful, I can show a 15-minute walkthrough next week.
 
 Best,
 Reza Tanakizadeh
@@ -930,17 +1029,19 @@ Reza Tanakizadeh
 ## 50. Novamedtek - sales@novamedtek.com
 - Industry: Medical Technology / Devices
 - Website: http://www.novamedtek.com
-- Subject: Quick AI workflow idea for Novamedtek
+- Subject: Quick sales automation concept for Novamedtek
 - Body:
 ```text
 Hi Novamedtek team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I came across your business and thought this would be relevant to your sales flow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If this is relevant, I can share a short demo call this week.
 
 Best,
 Reza Tanakizadeh
@@ -949,17 +1050,19 @@ Reza Tanakizadeh
 ## 51. Dentreal - info@dentreal.com
 - Industry: Dental Products / Supplies
 - Website: http://www.dentreal.com
-- Subject: Quick AI workflow idea for Dentreal
+- Subject: Small AI pilot proposal for Dentreal sales team
 - Body:
 ```text
 Hi Dentreal team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I wanted to send a short workflow idea tailored to teams like yours.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can prepare a quick 15-minute walkthrough with examples relevant to your team.
 
 Best,
 Reza Tanakizadeh
@@ -968,17 +1071,19 @@ Reza Tanakizadeh
 ## 52. Catak Dis Deposu - nfo@catakdisdeposu.com
 - Industry: Dental Supplies
 - Website: http://www.catakdisdeposu.com
-- Subject: Quick AI workflow idea for Catak Dis Deposu
+- Subject: AI workflow samples for Catak Dis Deposu
 - Body:
 ```text
 Hi Catak Dis Deposu team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I am reaching out with a focused automation idea for your commercial team.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Open to a short call to review where this can fit in your process?
 
 Best,
 Reza Tanakizadeh
@@ -987,17 +1092,19 @@ Reza Tanakizadeh
 ## 53. Dentac - oaydin@dentac.net
 - Industry: Dental Products / Supplies
 - Website: http://www.dentac.net
-- Subject: Quick AI workflow idea for Dentac
+- Subject: Improving follow-up speed at Dentac
 - Body:
 ```text
 Hi Dentac team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I took a look at your work and prepared a quick AI workflow suggestion.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would a brief 15-minute discussion be helpful this week?
 
 Best,
 Reza Tanakizadeh
@@ -1006,17 +1113,19 @@ Reza Tanakizadeh
 ## 54. Grup Dental - zmizrak@grupdental.com.tr
 - Industry: Dental Products / Supplies
 - Website: http://www.grupdental.com.tr
-- Subject: Quick AI workflow idea for Grup Dental
+- Subject: Sales ops automation idea for Grup Dental
 - Body:
 ```text
 Hi Grup Dental team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I thought this may be useful for your sales process and follow-up operations.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If you want, I can walk through a pilot scope in 15 minutes.
 
 Best,
 Reza Tanakizadeh
@@ -1025,17 +1134,19 @@ Reza Tanakizadeh
 ## 55. Eraylar - info@eraylar.com
 - Industry: Medical / Dental Products
 - Website: http://www.eraylar.com
-- Subject: Quick AI workflow idea for Eraylar
+- Subject: A short AI workflow proposal for Eraylar
 - Body:
 ```text
 Hi Eraylar team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I am sharing a short note because your team seems like a strong fit for this workflow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Happy to share a practical implementation plan in a short call.
 
 Best,
 Reza Tanakizadeh
@@ -1044,17 +1155,19 @@ Reza Tanakizadeh
 ## 56. Gulsa - info@gulsa.com.tr
 - Industry: Medical / Dental Products
 - Website: http://www.gulsa.com.tr
-- Subject: Quick AI workflow idea for Gulsa
+- Subject: Could this help Gulsa sales operations?
 - Body:
 ```text
 Hi Gulsa team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I wanted to propose a lightweight automation setup your team can implement quickly.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would you be open to a fast intro call to evaluate fit?
 
 Best,
 Reza Tanakizadeh
@@ -1063,17 +1176,19 @@ Reza Tanakizadeh
 ## 57. RK-1 - houda@rk-1.com
 - Industry: Medical / Dental Products
 - Website: http://rk-1.com/
-- Subject: Quick AI workflow idea for RK-1
+- Subject: Workflow automation examples for RK-1
 - Body:
 ```text
 Hi RK-1 team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I noticed your team could benefit from a simple AI-enabled sales workflow.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can show concrete workflow examples in a short session.
 
 Best,
 Reza Tanakizadeh
@@ -1082,17 +1197,19 @@ Reza Tanakizadeh
 ## 58. Akrodent - info@akrodent.com
 - Industry: Dental Products / Supplies
 - Website: http://www.akrodent.com
-- Subject: Quick AI workflow idea for Akrodent
+- Subject: A 15-minute AI workflow walkthrough for Akrodent
 - Body:
 ```text
 Hi Akrodent team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I am sending one practical idea that can be tested as a short pilot.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If timing works, we can review a low-risk pilot on a quick call.
 
 Best,
 Reza Tanakizadeh
@@ -1101,17 +1218,19 @@ Reza Tanakizadeh
 ## 59. NTA Implant - exportmanager@ntaimplant.com
 - Industry: Dental Implants
 - Website: http://www.ntaimplant.com
-- Subject: Quick AI workflow idea for NTA Implant
+- Subject: Reducing manual sales tasks at NTA Implant
 - Body:
 ```text
 Hi NTA Implant team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I prepared a concise workflow concept that may fit your current sales operations.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+Would it make sense to explore this in a 15-minute meeting?
 
 Best,
 Reza Tanakizadeh
@@ -1120,17 +1239,19 @@ Reza Tanakizadeh
 ## 60. Bilimplant - orhanakar@bilimplant.com
 - Industry: Dental Implants
 - Website: http://www.bilimplant.com
-- Subject: Quick AI workflow idea for Bilimplant
+- Subject: Pilot-ready AI workflow examples for Bilimplant
 - Body:
 ```text
 Hi Bilimplant team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I would like to share a practical AI setup that is fast to deploy and measurable.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+I can share a concise roadmap for deployment in a short call.
 
 Best,
 Reza Tanakizadeh
@@ -1139,17 +1260,19 @@ Reza Tanakizadeh
 ## 61. TOFF - info@toff.com.tr
 - Industry: Medical / Dental Products
 - Website: http://www.toff.com.tr/
-- Subject: Quick AI workflow idea for TOFF
+- Subject: Practical AI workflow idea for TOFF
 - Body:
 ```text
 Hi TOFF team,
 
-I build practical AI workflows for medical and pharma sales teams to improve distributor follow-up speed, convert notes into structured CRM updates, and surface high-priority opportunities.
+I reviewed your company profile and wanted to share a practical idea.
 
-If useful, I can share a short 15-minute walkthrough tailored to your workflow.
-You can view my demo examples here: https://mertz1999.github.io/reza-ai-freelance/#/
+Some sample works I can do: distributor follow-up automation, medical-sales voice-notes-to-CRM workflows, and AI call summaries that highlight next actions for sales teams.
+This generally helps sales teams respond faster, reduce missed opportunities, and keep CRM data structured.
 
-Would you be open to a quick call this week?
+You can view sample demos here: https://mertz1999.github.io/reza-ai-freelance/#/
+
+If useful, I can show a 15-minute walkthrough next week.
 
 Best,
 Reza Tanakizadeh
